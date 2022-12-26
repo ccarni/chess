@@ -1,6 +1,7 @@
 ﻿# Chess
-Chess game using python
-It currently has many bugs
+Chess game using python.
+
+It currently has many bugs.
 
 # Installation
 ```sh
